@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://7snzybycdd-dotcom.github.io/the-upvc-locksmith/sitemap.xml
+Sitemap: https://theupvclocksmith.co.uk/sitemap.xml
